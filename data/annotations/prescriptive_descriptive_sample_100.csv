@@ -1,0 +1,101 @@
+﻿sample_order,kuusi_id,theme,main_class,subgroup_code,type_number,proverb_primary_en,prescriptive_or_descriptive,has_implicit_prescription,proverb_original,proverb_parse_warning,language_names_extracted,distribution
+1,G2a-10b,G,G2,G2a,10b,Boys will be men,,,Boys will be men / Aus Kindern werden Leute,ok,,E
+2,A3a-25,A,A3,A3a,25,When it rains and the sun shines...,,,When it rains and the sun shines...,ok,,"F,Ew,Ee,A,O"
+3,C6b-25e,C,C6,C6b,25e,A handsome hostess is bad for the purse,,,"A handsome hostess is bad for the purse / Je schöner die Wirtin, je schwerer die Zeche / Ostessa bella, conto caro",ok,,Ew
+4,M4c-14,M,M4,M4c,14,Fear has a thousand eyes,,,Fear has a thousand eyes / Fear breed terror / Angst hat grosse Augen / La paura ha cent occhi,ok,,"F,E"
+5,C2f-13,C,C2,C2f,13,One nail drives another,,,One nail drives another,ok,,"F,E,I,O"
+6,A1a-14,A,A1,A1a,14,Let things take their course,,,Let things take their course / Man muß den Dingen ihren Lauf lassen / Il faut laisser couler l'eau,ok,,"F,E,I"
+7,C6e-10,C,C6,C6e,10,Keep smiling,,,"Keep smiling / Keep a stiff upper lip / Ein kecker mut ist der beste Harnisch / Ut melius, quidquid erit, pati (Latin)",ok,Latin,E
+8,E1b-15,E,E1,E1b,15,"We are all Adam's children, but silk makes the difference",,,"We are all Adam's children, but silk makes the difference /Every man has his faults / Die Menschen sind alle gleich / Iam vix sunt visi qui caruere nisi (Latin)",ok,Latin,"F,E,A,O"
+9,B2c-21,B,B2,B2c,21,Evil comes to us by ells and goes away by inches,,,"Evil comes to us by ells and goes away by inches / Böses kommt geritten, geht aber weg mit Schritten / Il male vien a cavallo e se ne va a piedi",ok,,E
+10,D2b-12,D,D2,D2b,12,After joy comes sorrow,,,"After joy comes sorrow / Af Lachen folgt weinen / Ingen glädje utan sorg / Aujourd'hui en fleurs, demain en pleurs",ok,,G
+11,T2a-12,T,T2,T2a,12,"Other days, other ways",,,"Other days, other ways / Andere Zeiten, andere Sitten / Mores secundum tempus (Latin) / Altri tempi, altri costumi",ok,Latin,E
+12,J1k-16,J,J1,J1k,16,That is true which stands the flame,,,That is true which stands the flame trl. Hindi/Indian,ok,Hindi/Indian,"F,E,I,O,P"
+13,D3h-25,D,D3,D3h,25,"All covet, all lose",,,"All covet, all lose",ok,,"F,E,A,I"
+14,D4a-14,D,D4,D4a,14,A good dinner is worth more than a fine coat,,,"A good dinner is worth more than a fine coat / Erst der Magen, dann der Kragen",ok,,"F,E,O"
+15,T1b-24,T,T1,T1b,24,Measure thrice and cut once,,,"Measure thrice and cut once / Erst wägen, dann wagen / N'entreprends rien sans avoit mesuré toutes choses",ok,,"F,E,I,O"
+16,C6f-13,C,C6,C6f,13,A big head and little wit,,,"A big head and little wit / Breite Stirn, wenig Hirn / Grosse tête, peu de sens",ok,,"F,E,I,O"
+17,H7i-17,H,H7,H7i,17,Beat the dog before the lion,,,"Beat the dog before the lion / Man schlägt auf dem sack und meint den Müller / Coram leone canis castigatur (Latin) / Tante volte si tira al cane, per fare insulto al padrone",ok,Latin,G
+18,J1a-17,J,J1,J1a,17,Good words break no bones,,,Good words break no bones / Güte bricht einem kein Bein,ok,,"F,E"
+19,M3c-22,M,M3,M3c,22,You cannot see the wood for the trees,,,You cannot see the wood for the trees/ Some men go through a forest and see no firewood (?)/ Man kann den Wald nicht vor Bäumen sehen / Les maisons empêchent de voir la ville,ok,,"E,I"
+20,F1e-19,F,F1,F1e,19,Asses carry the oats and horses eat them,,,Asses carry the oats and horses eat them,ok,,G
+21,H1c-11,H,H1,H1c,11,He that has a great nose thinks everybody is speaking of it,,,He that has a great nose thinks everybody is speaking of it,ok,,"F,E,I"
+22,H5b-24,H,H5,H5b,24,"Save a thief from the gallows, and he'll be the first to cut your throat",,,"Save a thief from the gallows, and he'll be the first to cut your throat / Wer des Wolfes schont, der gefärdet die Schafe / Miniatur innocentibus qui parcit nocentibus (Latin)",ok,Latin,"F,E"
+23,F1d-36,F,F1,F1d,36,Ill weeds grow apace,,,Ill weeds grow apace / Böses Kraut wächst bald / herba mala cito crescit (Latin),ok,Latin,"F,E,A,I"
+24,K1i-16b,K,K1,K1i,16b,Set a beggar on horseback and he'll ride to the devil,,,"Set a beggar on horseback and he'll ride to the devil / Der Bettler, der Ritter worden, jagt sein Pherd zu Tod / Il villano nobiltato non conosce parentato",ok,,E
+25,F2a-13,F,F2,F2a,13,Better be envied than pitied,,,Better be envied than pitied / Besser beneidet als bemitleidet / Invidia è non pietà,ok,,E
+26,K1k-11,K,K1,K1k,11,Learned fools are the greatest fools,,,"Learned fools are the greatest fools / Die gelehrten Narren sind über alle Narren / postquam docti surrexerunt, boni viri desierunt (Latin) / Necio letrado, necio doblado",ok,Latin,Ew
+27,M9d-13,M,M9,M9d,13,None is born a master,,,None is born a master / Es wird keiner als Meister geboren / Nemo magister natus (Latin) / Nadie nace maestro,ok,Latin,"F,E,A"
+28,K2e-21,K,K2,K2e,21,The gift blinds the wise,,,The gift blinds the wise / Bribery makes the discerning man blind,ok,,"F,E,A,O"
+29,G3b-16,G,G3,G3b,16,It's a wise child that knows its own father,,,"It's a wise child that knows its own father / Es ist ein weises Kind, das seinen Vater kennt",ok,,"Ew,Es,O"
+30,B1f-11,B,B1,B1f,11,"God gives us hands, but does not build bridges for us",,,"God gives us hands, but does not build bridges for us",ok,,"Ew,O,P"
+31,M5a-34,M,M5,M5a,34,A blind man will not thank you for a looking-glass,,,A blind man will not thank you for a looking-glass / U aveugle ne vous remerciera pas pour un miroir,ok,,"F,En,A,O"
+32,C5e-27,C,C5,C5e,27,Fair words and foul deeds,,,"Fair words and foul deeds / Fine words dress ill deeds / Samtweiche Worte, harte Taten / Bella promessa lega il matto",ok,,E
+33,G5c-14,G,G5,G5c,14,Old wood makes the best fire,,,"Old wood makes the best fire / Alt' Holz brennt besser als junges / Arida sarmenta recreant incendia lenta (Latin) / Quando il pagliaio vecchio piglia fuoco, si spegne male",ok,Latin,"F,E"
+34,L2d-10b,L,L2,L2d,10b,There are more foolish byers than foolish sellers,,,There are more foolish byers than foolish sellers / Il y a plus de fous acheteurs que de fous vendeurs,ok,,Ew
+35,H7b-13,H,H7,H7b,13,"Harm watch, harm catch",,,"Harm watch, harm catch / He that scatters thorns must not go barefoot / Wer Dornen sät, geht nicht barfuss / Qui amat periculum, peribit im illo (Latin)",ok,Latin,"E,I,O"
+36,H7a-14,H,H7,H7a,14,"When thieves fall out, honest men get their own",,,"When thieves fall out, honest men get their own",ok,,"F,Ew,Es"
+37,J1b-22,J,J1,J1b,22,"Act quickly, think slowly",,,"Act quickly, think slowly / First think and then speak / Überleg erst, dann sprich / Il faut tourner dix fois sa langue dan la bouche avant de parler",ok,,"F,E,I,O,P"
+38,K1b-17,K,K1,K1b,17,When the cat is away the mice play,,,"When the cat is away the mice play / Ist die Katze aus dem Hause, so tanzen die Mäuse / Quand le chat est parti, les souris dansent / Cuando el gato duerme, los ratones bailan",ok,,G
+39,G1a-12,G,G1,G1a,12,Blood is thicker than water,,,Blood is thicker than water / Multum valet communio sanguinis (Latin) / Il sangue no è acqua / Blood will tell (?),ok,Latin,G
+40,M8a-12,M,M8,M8a,12,A penny spared is twice got,,,"A penny spared is twice got / In for a penny, in for a pound / Cuidad los centavos, que los pesos se cuidan solos",ok,,E
+41,M3d-21,M,M3,M3d,21,Don't cut off the bough on which you are sitting,,,"Don't cut off the bough on which you are sitting / Man soll den Ast, auf dem man sitzt, nicht absägen",ok,,"F,E,A,O"
+42,A3a-12,A,A3,A3a,12,The east wind won't cease before it rains and a wife's scolding won't cease before she cries,,,The east wind won't cease before it rains and a wife's scolding won't cease before she cries trl. Finnish,ok,Finnish,"F,Ew,I,O"
+43,E1g-12,E,E1,E1g,12,The sun shines upon all alike,,,The sun shines upon all alike,ok,,"F,E,A,O"
+44,L1e-25,L,L1,L1e,25,The thief doth fear each bush an officer,,,The thief doth fear each bush an officer / He that commits a fault thinks everybody speaks of it /,ok,,"E,I,O"
+45,T1d-12,T,T1,T1d,12,A little fire is quickly trodden out,,,"A little fire is quickly trodden out / Al male bisogna rimediare da principio / Lösche das Feuer beizeiten, das Unheil wende ab",ok,,"E,A"
+46,J1b-14,J,J1,J1b,14,Few words are best,,,Few words are best / Brevity is the soul of wit / Brevis oratio penetrat caelos (Latin),ok,Latin,"F,E,I,O"
+47,M6d-29,M,M6,M6d,29,He who is not with me is against me,,,"He who is not with me is against me / Wer nicht mit mir ist, der ist wider mich / Chi non è meco, è contro a me",ok,,"Ew,Es"
+48,C1c-10,C,C1,C1c,10,An old fox needs not to be taught tricks,,,An old fox needs not to be taught tricks / Non si insegna a nuotare ai pesci,ok,,"F,E,A,O"
+49,K2b-15,K,K2,K2b,15,Poverity has no relations,,,Poverity has no relations / Arme Leute kennt niemand / Inopi nullus amicus (Latin) / Povertà non ha parenti,ok,Latin,G
+50,B1b-13,B,B1,B1b,13,Good fortune comes to some people while they are asleep,,,Good fortune comes to some people while they are asleep / Gott gibt's den Seinen im Schlafe / La fortune vient en dormant,ok,,E
+51,A3b-18,A,A3,A3b,18,For a morning rain leave not your journey,,,For a morning rain leave not your journey/Frühregen und Frühgäste bleiben selten über Nacht /Non multum metuas matutinum hospitem et imbrem(Latin)/Vent de soir et pluie du matin n'étonnet paslePèlerin,ok,Latin,"F,E"
+52,D3d-21,D,D3,D3d,21,A watched kettle never boils,,,A watched kettle never boils / Beim Wartem wird die Zeit Lang / Pentola guardiata non bolle mai,ok,,"F,E,O"
+53,E1g-20b,E,E1,E1g,20b,Death makes equal the high and low,,,"Death makes equal the high and low / Arm und reich, der Tod macht alles gleich / La mort frappe sans respect",ok,,"E,O"
+54,H2f-27,H,H2,H2f,27,Death pays all debts,,,Death pays all debts / Der Tod bezahlt alle Schulden / Au bout le bout,ok,,"F,E"
+55,E1d-10,E,E1,E1d,10,A little is better than none,,,A little  is better than none / Etwas ist besser als gar nichts / È meglio qualche cosa che niente,ok,,G
+56,J1a-15,J,J1,J1a,15,That which cometh from the heart will go to the heart,,,"That which cometh from the heart will go to the heart / Was vom Herzen kommt, das geht zu Herzen / Ce qui vient du cœur va au cœur / Un corazón siente a otro corazón",ok,,"E,I,O"
+57,H6b-22c,H,H6,H6b,22c,The best mirror is an old friend,,,The best mirror is an old friend / A friend is a second self / Alter ipse amicus (Latin)  / Mieux vaut ami grondeur que flatteur,ok,Latin,"E,O"
+58,D3b-20,D,D3,D3b,20,Where there is butter there are flies,,,Where there is butter there are flies,ok,,G
+59,T3c-12,T,T3,T3c,12,Time cures all things,,,Time cures all things,ok,,"F,Ew,Eb"
+60,L1b-26,L,L1,L1b,26,Better be foolish with all than wise by yourself what everybody says must be true,,,Better be foolish with all than wise by yourself what everybody says must be true /Ce que tout le monde dit doit être vrai,ok,,"Ew,Es,O"
+61,G6b-11,G,G6,G6b,11,The older the wiser,,,The older the wiser / Mit der Zeit wird man klug / Aetate rectius sapimus (Latin),ok,Latin,"F,E,I"
+62,H7m-33,H,H7,H7m,33,To add oil to the fire,,,To add oil to the fire / Öl ins Feuer gießen / Oleum camino addere (Latin) / Echar leña al fuego,ok,Latin,"E,I,O"
+63,H2b-21,H,H2,H2b,21,Dry bread at home is better than roast meat abroad,,,Dry bread at home is better than roast meat abroad / Unser Kohl schmeckt wohl / Et proprius panis magis extat in ore suavis,ok,,G
+64,T2a-10,T,T2,T2a,10,No two days are alike,,,No two days are alike,ok,,"F,E,I,O"
+65,J1a-11,J,J1,J1a,11,The tongue kills man and the tongue saves man,,,The tongue kills man and the tongue saves man trl.Oji/Afr.,ok,Oji/Afr.,"F,Ee,Es,A,O"
+66,F1d-39,F,F1,F1d,39,Ill weeds grow apace,,,Ill weeds grow apace,ok,,"E,A,O"
+67,T1b-17,T,T1,T1b,17,When the pear is ripe it falls,,,"When the pear is ripe it falls / Man soll den Baum nicht eher schütteln, als bis seine Früchte reif sind / Cum sunt matura, breviter pira sunt ruitura (Latin)",ok,Latin,"F,E,O"
+68,F1b-19b,F,F1,F1b,19b,Where there is no shame there is no honour,,,"Where there is no shame there is no honour / Wo keine Scham ist, ist auch keine Ehre / Ubi timor, ibi et pudor (Latin)",ok,Latin,E
+69,G2a-37,G,G2,G2a,37,You can't get figs from thistles,,,You can't get figs from thistles,ok,,G
+70,H5h-17,H,H5,H5h,17,The Moor has done his duty let him go,,,The Moor has done his duty let him go,ok,,G
+71,K2i-10,K,K2,K2i,10,Old age is a heavy burden,,,Old age is a heavy burden / Das Alter ist eine schwere Last / La vejez es un pesado fardo,ok,,"F,E,I,O"
+72,B2a-24,B,B2,B2a,24,Talk of the wolf and his tail appears,,,"Talk of the wolf and his tail appears / Call not a devil, he will come fast enough / Lupus in fabula (Latin) / Hablando de Roma, el Papa se asoma",ok,Latin,G
+73,C1a-16,C,C1,C1a,16,There is no sin but stupidity,,,There is no sin but stupidity / Mori morantur quocumque sub axe morantur (Latin),ok,Latin,"F,E"
+74,K1d-10,K,K1,K1d,10,Never argue against one who is greater than you,,,Never argue against one who is greater than you trl.Maltese,ok,Maltese,"F,Es,A,I,O"
+75,K1e-14,K,K1,K1e,14,Don't kill the goose that lays the golden eggs,,,"Don't kill the goose that lays the golden eggs / To cut off one's nose to spite one's face / Die Henne schlachten, um ein Ei zu gewinnen / Matar la gallina de los huevos de oro",ok,,"E,A"
+76,B1c-10,B,B1,B1c,10,Whom the Lord loves he reproves,,,"Whom the Lord loves he reproves / Wen Gott lieb hat, den züchtigt er / Quem enim diligit Dominus, corripit (Latin)",ok,Latin,"F,E"
+77,E1i-17,E,E1,E1i,17,Where there is an advantage there is also a disadvantage,,,Where there is an advantage there is also a disadvantage trl. Japanese,ok,Japanese,"Ew,Ee,I,O"
+78,A3b-12,A,A3,A3b,12,Men worship the rising not the setting sun,,,"Men worship the rising not the setting sun / Die Morgensonne hat mehr Anbeter als die Abendsonne / Plures adorant solem orientem quam occidentem (Latin) / Si stima più il sole levante, che l'occidente",ok,Latin,E
+79,D3c-24c,D,D3,D3c,24c,Love lives in cottages as well as in courts,,,Love lives in cottages as well as in courts / Raum ist in der kleinsten Hütte für ein sich liebend' Paar,ok,,"F,E"
+80,M9b-17,M,M9,M9b,17,He that will not be counselled cannot be helped,,,"He that will not be counselled cannot be helped / Wem nicht zu raten ist, dem ist auch nicht zu helfen / Consilio, quod respuitur, nullum subest auxilium (Latin)",ok,Latin,E
+81,E1e-10,E,E1,E1e,10,We never know the value of water till the well is dry,,,"We never know the value of water till the well is dry / Den Brunnen schätzt man erst, wenn er kein Wasser mehr gibt / Quand le puits est sec, on sait ce que vaut l'eau",ok,,"F,E,I,O"
+82,G5f-11,G,G5,G5f,11,Love is not complete without a quarrel,,,"Love is not complete without a quarrel / Wer's liebt sich, kriegt sich / Cogas amantem irasci, amari si velis (Latin) / Sdegno cresce amore",ok,Latin,E
+83,J1k-15b,J,J1,J1k,15b,Not all truths are proper to be told,,,"Not all truths are proper to be told / Wer die Wahrheit spricht, schlägt den Freunden ins Gesicht / Obsequium amicos, veritas odium parit (Latin) / No todas las verdades son para dichas",ok,Latin,E
+84,M6a-22,M,M6,M6a,22,One may lead a horse to water but he cannot make him drink,,,"One may lead a horse to water but he cannot make him drink / Pherde lassen sich zum Wasser bringen, aber nicht zum trinken zwingen / Bos ad aquam tractus non vult potare coactus (Latin)",ok,Latin,"F,E,O"
+85,M3f-13b,M,M3,M3f,13b,Praise a fool and you water his folly,,,"Praise a fool and you water his folly / Qui prie le vilain, se fatigue en vain",ok,,"F,Ew,Es"
+86,T3c-24,T,T3,T3c,24,You cannot make an omelette without breaking eggs,,,"You cannot make an omelette without breaking eggs / Man macht kein Eierkuchen, ohne Eier zu zerbrechen / Non si fanno frittate senza rompere le uova",ok,,"E,P"
+87,A3c-41,A,A3,A3c,41,An age to an age is not a brother,,,An age to an age is not a brother trl. Lithuanian,ok,Lithuanian,"F,Ew,Es,A,I"
+88,M7b-13,M,M7,M7b,13,"When a great oak falls, every neighbour may scuffle for a faggot",,,"When a great oak falls, every neighbour may scuffle for a faggot / Wenn der Baum fällt, so sammelt jedermann Holz",ok,,"F,E,I,O"
+89,H1d-13,H,H1,H1d,13,Seeing is believing,,,Seeing is believing,ok,,"F,E"
+90,C2c-10b,C,C2,C2c,10b,"Who breaks, pays",,,"Who breaks, pays / Wer die Schuld hat, bezahlt / Qui casse les œufs, les paie / Quien la haga, que la pague",ok,,"E,O"
+91,M7g-15,M,M7,M7g,15,"The more the merrier, the fewer the better cheer",,,"The more the merrier, the fewer the better cheer /Lieber eng und wohl, als weit und weh /Più grande la compagna, più ci si diverte",ok,,"F,En"
+92,G4c-24,G,G4,G4c,24,"A woman's advice is but slender, yet he that refuses it is a madman",,,"A woman's advice is but slender, yet he that refuses it is a madman",ok,,"Ew,Ee,A,O"
+93,D5b-10,D,D5,D5b,10,"Ever drunk, ever dry",,,"Ever drunk, ever dry / Dem Trinker kommt der Durst / Qui a bu, boira",ok,,"F,E,A"
+94,H2a-20,H,H2,H2a,20,Too many cooks spoil the broth,,,Too many cooks spoil the broth  / Many captains and the ship goes to the rocks,ok,,"F,E,I,O"
+95,F1b-47,F,F1,F1b,47,A liar is not believed when he speaks the truth,,,"A liar is not believed when he speaks the truth / Wer einmal lügt, dem glaubt man nicht, und wenn er auch die Wahrheit spricht / A beau dire vrai qui a menti",ok,,"F,E,I"
+96,D3e-27,D,D3,D3e,27,Fat bellies make empty skulls,,,"Fat bellies make empty skulls / A fat belly, a lean brain / ein voller Bauch erzeugt keinen witzigen Gedanken / ebrius atque satur stomachus male philosophitum (Latin)",ok,Latin,"E,O"
+97,B1e-19,B,B1,B1e,19,Pray and work,,,Pray and work / Bete und arbeite! / Ora et labora (Latin) / Trabajar es orar,ok,Latin,"Ew,Es"
+98,L2c-28,L,L2,L2c,28,Ask and have is sometimes dear buying,,,"Ask and have is sometimes dear buying /Bittkauf, teurer Kauf / Emere malo quam rogare (Latin)",ok,Latin,"F,E"
+99,T3c-16b,T,T3,T3c,16b,There is no night so dark but that it is surmonted with the day,,,There is no night so dark but that it is surmonted with the day,ok,,"F,E,A,I"
+100,J1f-14,J,J1,J1f,14,He who says what he likes shall hear what he does not,,,"He who says what he likes shall hear what he does not / Chi dice quel che vuole, ode quel che non vorrebbe",ok,,"E,I"

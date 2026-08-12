@@ -1,0 +1,16 @@
+| Category | Name          | Description                                                                    |
+| -------: | ------------- | ------------------------------------------------------------------------------ |
+|        0 | Small / Great | Texts about size, importance, or relative significance.                        |
+|        1 | Good / Better | Texts comparing goodness, improvement, or quality.                             |
+|        2 | Love / Makes  | Texts concerning love, relationships, or emotions.                             |
+|        3 | Make / Do     | Advice or actions involving doing, making, or behavior.                        |
+|        4 | Old / Young   | Texts about age, experience, or generations.                                   |
+|        5 | Better / Egg  | Miscellaneous practical sayings (cluster centered on several recurring words). |
+|        6 | Man / Wise    | Human nature, wisdom, and personal character.                                  |
+|        7 | Ill / Speak   | Speech, communication, and interpersonal conduct.                              |
+|        8 | Does / Want   | Desire, intention, and decision-making.                                        |
+|        9 | Time / Cures  | Time, patience, and change over time.                                          |
+
+LLM prompt used for GPT5.5 free version:
+
+The attached CSV contains English-language texts. Group them into meaningful categories based on their meanings. Choose the categories yourself, and return a CSV showing the ID and assigned category for every text. Also provide a brief name and description for each category.

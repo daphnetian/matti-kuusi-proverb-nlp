@@ -1,0 +1,15 @@
+# Tested with Python 3.13.5.
+
+# Direct analysis/runtime dependencies
+ipython==9.5.0
+matplotlib==3.10.8
+numpy==2.3.2
+pandas==2.3.3
+scikit-learn==1.9.0
+seaborn==0.13.2
+sentence-transformers==5.6.1
+
+# Notebook and kernel tooling
+ipykernel==6.30.1
+jupyterlab==4.4.10
+nbconvert==7.16.6

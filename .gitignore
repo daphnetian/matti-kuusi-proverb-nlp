@@ -1,0 +1,84 @@
+# macOS, Windows, and editor metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python caches, test artifacts, and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+env/
+
+# Local configuration, credentials, logs, and temporary files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.temp
+
+# Downloaded model artifacts and local model caches
+.cache/
+.huggingface/
+.transformers/
+.hf_home/
+models/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Databases and runtime sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Raw source snapshot retained in the internal handoff
+/data/raw/kuusi_proverb_types.json
+
+# Local research papers retained in the internal handoff
+/papers/
+/codebook_Igor.pdf
+
+# Internal, duplicate, or unnecessary data artifacts
+/data/llm_text_input.csv
+/data/processed/kuusi_proverb_types.csv
+/data/wisdom_extractor/attestations.csv
+/data/wisdom_extractor/clusters_coords.csv
+/data/wisdom_extractor/interpretation_report.txt
+/data/wisdom_extractor/interpretation_themes.csv
+/data/wisdom_extractor/manual_cluster_audit_v19.csv
+/data/wisdom_extractor/mk_full_results_v19/
+/data/wisdom_extractor/mk_full_results_v19_wisdom_extractor.ipynb
+/data/wisdom_extractor/proverbs.csv
+/data/wisdom_extractor/wisdom_clusters.json
+
+# Wisdom Extractor diagnostic figures are not part of the public workflow
+/data/wisdom_extractor/img/
+
+# Redundant or unsupported project outputs
+/outputs/figures/mk_proverb_by_theme.png
+
+# Unnecessary package placeholder and empty-directory markers
+/src/__init__.py
+.gitkeep

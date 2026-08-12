@@ -1,0 +1,7 @@
+tau,clusters,singletons,singleton_pct,largest_cluster,mean_cluster_size,ari_vs_baseline_tau_0_35,method
+0.25,1629,1569,0.9632,2,1.037,0.8108,agglomerative-average
+0.3,1620,1551,0.9574,2,1.043,0.879,agglomerative-average
+0.35,1606,1527,0.9508,4,1.052,1.0,agglomerative-average
+0.4,1589,1498,0.9427,5,1.063,0.8756,agglomerative-average
+0.45,1566,1456,0.9298,6,1.079,0.7619,agglomerative-average
+0.5,1534,1400,0.9126,6,1.101,0.6447,agglomerative-average
