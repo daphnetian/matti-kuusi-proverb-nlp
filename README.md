@@ -1,34 +1,34 @@
 # Exploring Proverb Similarity and Classification with the Matti Kuusi Typology
 
-This project uses **1,727 cleaned proverb-type records** from the Matti Kuusi International Type System of Proverbs to explore how different computational methods handle short, often metaphorical texts.
+This **7–8 week exploratory research project** uses **1,727 cleaned proverb-type records** from the Matti Kuusi International Type System of Proverbs to examine how different computational methods handle short, often metaphorical texts.
 
-The result is a research corpus with 36 linguistic, hierarchical, geographic, and bibliographic fields, unique canonical identifiers, and no missing primary texts. The analysis compares several methods to understand what each one captures, where it struggles, and how much confidence we should place in its results.
+The result is an analysis-ready corpus with **36 linguistic, hierarchical, geographic, and bibliographic fields**, unique canonical identifiers, and no missing primary texts. The project compares lexical, embedding-based, clustering, LLM, annotation, and supervised classification approaches to understand what each captures and where its limitations lie.
 
 ## What the project includes
 
 * Descriptive analysis of themes, regions, languages, and classification hierarchies
-* A retrieval comparison between TF-IDF and [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+* TF-IDF and [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) retrieval comparison
 * Lexical clustering with [Wisdom Extractor](https://github.com/ovladon/wisdom-extractor)
-* An exploratory LLM-generated grouping of the corpus
-* A human annotation pilot examining prescriptive and descriptive functions
-* A supervised TF-IDF classification proof of concept
+* Exploratory LLM-generated semantic groupings
+* Human annotation of prescriptive and descriptive proverb functions
+* Supervised TF-IDF classification proof of concept
 
-The full methodology, code, figures, results, and interpretation are in [`kuusi_nlp_research_notebook.ipynb`](kuusi_nlp_research_notebook.ipynb).
+Full methodology, code, figures, results, and interpretation are in `kuusi_nlp_research_notebook.ipynb`.
 
 ## Key findings
 
-* **TF-IDF and MiniLM retrieved different kinds of neighbours.** TF-IDF favoured shared words and phrases. MiniLM sometimes found proverbs with less lexical overlap but related topics or meanings. This was a qualitative comparison, so similarity does not prove that two proverbs express the same idea.
-* **Human coders agreed strongly on the prescriptive versus descriptive distinction.** They reached 95% agreement and Cohen’s κ = 0.798. Agreement on implicit prescription was much weaker at 63%, with κ = 0.127.
-* **The classifier did not beat the majority baseline.** Its accuracy was 0.817, compared with 0.874 for the baseline. Improvements in balanced accuracy and macro-F1 suggest that it detected some minority-class signal, but not enough to support a practically useful classifier.
+* **TF-IDF and MiniLM retrieved different kinds of neighbours.** TF-IDF favoured shared words and phrases, while MiniLM sometimes retrieved proverbs with less lexical overlap but related topics or meanings. This was a qualitative comparison, so similarity does not establish semantic equivalence.
+* **Human coders agreed strongly on explicit prescriptive versus descriptive wording:** **95% agreement, Cohen’s κ = 0.798**. Agreement on implicit prescription was much weaker at **63%, κ = 0.127**, suggesting that this distinction needs a more precise codebook.
+* **The supervised classifier did not beat the majority baseline.** Accuracy was **0.817**, compared with **0.874** for the baseline. Higher balanced accuracy and macro-F1 suggest some minority-class signal, but not enough to support a practically useful classifier.
 
 ## Repository guide
 
-* [`kuusi_nlp_research_notebook.ipynb`](kuusi_nlp_research_notebook.ipynb): complete analysis and experiments
-* [`data/processed/kuusi_proverb_types_clean.csv`](data/processed/kuusi_proverb_types_clean.csv): cleaned 1,727-record corpus
-* [`data/README.md`](data/README.md): data manifest, field groups, identifiers, and join rules
-* [`src/kuusi_cleaning.py`](src/kuusi_cleaning.py): documented cleaning logic
-* [`DATA_NOTICE.md`](DATA_NOTICE.md): source, permission, and reuse information
-* [`requirements.txt`](requirements.txt): Python dependencies
+* `kuusi_nlp_research_notebook.ipynb` — complete analysis and experiments
+* `data/processed/kuusi_proverb_types_clean.csv` — cleaned 1,727-record corpus
+* `data/README.md` — data manifest, field groups, identifiers, and join rules
+* `src/kuusi_cleaning.py` — documented cleaning logic
+* `DATA_NOTICE.md` — source, permission, and reuse information
+* `requirements.txt` — Python dependencies
 
 ## Quick start
 
@@ -42,13 +42,23 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Open the notebook and run all cells in order. On Windows, activate the environment with `.venv\Scripts\activate`. Internet access is required the first time MiniLM is downloaded.
+Open the notebook and run all cells in order.
+
+On Windows, activate the environment with:
+
+```bash
+.venv\Scripts\activate
+```
+
+Internet access is required the first time MiniLM is downloaded.
 
 ## Scope and limitations
 
-This corpus is a cleaned project derivative, not the complete historical Matti Kuusi database. The public notebook starts with the cleaned CSV and does not reproduce the internal raw-data collection process.
+This is an **exploratory project completed over approximately 7–8 weeks**, not a finished semantic taxonomy or benchmark.
 
-The English titles are short and sometimes translated. Retrieval was assessed through a small manual comparison rather than a formal benchmark. Wisdom Extractor clusters, LLM-generated categories, and similarity scores are exploratory outputs rather than semantic ground truth.
+The corpus is a cleaned project derivative rather than the complete historical Matti Kuusi database. The public notebook begins with the cleaned CSV and does not reproduce the internal raw-data collection process.
+
+The English titles are short and sometimes translated, and proverb use is analysed without conversational context. Retrieval was evaluated through a small manual comparison rather than a formal benchmark. Wisdom Extractor clusters, LLM-generated categories, and similarity scores should therefore be treated as exploratory outputs rather than semantic ground truth.
 
 ## Citation and reuse
 
@@ -56,9 +66,9 @@ The foundational source is:
 
 > Lauhakangas, Outi. 2001. *The Matti Kuusi International Type System of Proverbs*. FF Communications No. 275. Helsinki: Suomalainen Tiedeakatemia / Academia Scientiarum Fennica. ISSN 0014-5815. ISBN 951-41-0882-5 and 951-41-0883-3.
 
-See [`DATA_NOTICE.md`](DATA_NOTICE.md) before reusing the corpus or research outputs.
+See `DATA_NOTICE.md` before reusing the corpus or research outputs.
 
-The root [`LICENSE`](LICENSE) covers original project software and configuration. It does not license the underlying data, proverb content, annotations, generated outputs, publications, or other third-party materials.
+The root `LICENSE` covers original project software and configuration. It does not license the underlying data, proverb content, annotations, generated outputs, publications, or other third-party materials.
 
 ## Acknowledgements
 
