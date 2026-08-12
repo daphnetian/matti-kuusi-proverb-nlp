@@ -62,4 +62,4 @@ The root [`LICENSE`](LICENSE) covers original project software and configuration
 
 ## Acknowledgements
 
-Developed through research with the DICE Lab at the University of Waterloo, with guidance from Abhishek Dedhe. Thanks to Outi Lauhakangas for project-specific publication permission and to the undergraduate lab researchers who contributed to the annotation pilot.
+Developed through research with the DICE Lab at the University of Waterloo, with guidance from Abhishek Dedhe and support from Samuel Johnson, the lab’s principal investigator. Thanks to Outi Lauhakangas for project-specific publication permission and to the undergraduate lab researchers who contributed to the annotation pilot.
